@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Eliastoomme
-- 👀 I’m interested in Web applications
-- 🌱 I’m currently learning Artificial intelligence engineering
-- 💞️ I’m looking to collaborate on Web developing
-- 📫 How to reach me eliastomeh@hotmail.com
+- 👀 Passionate about computer vision projects
+- 🌱 Skilled in real-time object detection and image classification models, face detection, analysis and recognition, and pose estimator and recognition.
+- 💞️ With 2 years experience as an AI Engineer
+- 📫 You can reach me out at eliastoommeh@gmail.com
 
 <!---
 Eliastoomme/Eliastoomme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
