@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eliastoomme
 - 👀 Passionate about computer vision projects
 - 🌱 Skilled in real-time object detection and image classification models, face detection, analysis and recognition, and pose estimator and recognition.
-- 💞️ With 2 years experience as an AI Engineer
+- 💞️ With 3 years experience as an AI Engineer
 - 📫 You can reach me out at eliastoommeh@gmail.com
 
 <!---
